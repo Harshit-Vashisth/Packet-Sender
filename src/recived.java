@@ -81,7 +81,7 @@ public class recived {
                     Thread th1=new Thread(c);
                     th1.start();
                     c.set(s1,s3,"NULL",port);
-
+                    //created by Harshit Vashisth
                     // Clear the buffer after every message.
                     receive = new byte[65535];
                 }

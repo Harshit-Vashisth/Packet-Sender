@@ -11,7 +11,7 @@ public class reply1 implements Runnable {
     String msg;
     JLabel l1;
     int g=0;
-    JPanel p1,p2,p3;
+    JPanel p1,p2,p3; //created by Harshit Vashisth
     int count=0;
     String[] colName2 = new String[] { "      Time","          From IP","      From Port","      Method","     Message Sent","       Reply Recived" };//harsh
     Object[][] products2 = new Object[][] {
@@ -219,6 +219,7 @@ public class reply1 implements Runnable {
             products2[10][5]=s1;
             count=(count+1)%10;
         }
+        //created by Harshit Vashisth
 
     }
 

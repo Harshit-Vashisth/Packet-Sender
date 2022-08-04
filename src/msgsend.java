@@ -3,7 +3,8 @@ import java.net.*;
 
 
 public class msgsend implements Runnable{
-    DatagramSocket ds;
+    DatagramSocket ds; //created by Harshit Vashisth
+
     String m1,m2,m3,m4,m5;
     int port;
     int mili;
@@ -39,6 +40,6 @@ public class msgsend implements Runnable{
 
 
     }
-
+    //created by Harshit Vashisth
 
 }

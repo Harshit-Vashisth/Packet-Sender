@@ -7,7 +7,7 @@ import java.net.DatagramSocket;
 public class tools implements ActionListener {
     //created BY harshit vashisth
     JFrame frame;
-    JPanel p1;
+    JPanel p1; //created by Harshit Vashisth
     JButton b1,b2,b3,b4,b5;
     String st1="NA",st2="NA",st3="NA";
     DatagramSocket ds;
@@ -52,7 +52,7 @@ public class tools implements ActionListener {
         frame.setVisible(true);
 
 
-    }
+    } //created by Harshit Vashisth
 
     @Override
     public void actionPerformed(ActionEvent e) {

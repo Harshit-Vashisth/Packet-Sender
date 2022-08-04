@@ -269,6 +269,7 @@ public class trafficgen implements ActionListener,Runnable {
         l4.setForeground((Color.decode("#70BBFC")));
         l5.setForeground((Color.decode("#70BBFC")));
         l6.setForeground((Color.decode("#70BBFC")));
+        //created by Harshit Vashisth
         l7.setForeground((Color.decode("#70BBFC")));
         //l8.setForeground((Color.decode("#70BBFC")));
         l10.setForeground((Color.decode("#70BBFC")));
