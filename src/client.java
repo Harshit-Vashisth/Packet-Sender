@@ -671,6 +671,7 @@ table1= new JTable(products1,colname2);
         tpa7.setBackground(Color.decode("#363994"));
         ct1.setBackground(Color.decode("#363994"));
         ct2.setBackground(Color.decode("#363994"));
+        String s="By harshit ";
         ct3.setBackground(Color.decode("#363994"));
         ownz.setBackground(Color.decode("#363994"));
         ct4.setBackground(Color.decode("#363994"));
@@ -1204,6 +1205,7 @@ table1= new JTable(products1,colname2);
             products[0][9]=ft;
             ct = (ct + 1) % 15;
         }
+
 
         else if (ct == 1) {
 
