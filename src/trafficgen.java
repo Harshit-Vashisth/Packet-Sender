@@ -159,7 +159,7 @@ public class trafficgen implements ActionListener,Runnable {
 
         r1=new JRadioButton( "  D E L A Y  ( n s )  ");
         r2=new JRadioButton(" S P E E D  ( mb/sec ) ");
-
+        r2.setEnabled(false);
         p11.add(l1);
         p11.add(t1);
         p11.add(l2);
