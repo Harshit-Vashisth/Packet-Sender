@@ -1124,7 +1124,17 @@ table1= new JTable(products1,colname2);
             new tools(ds,spa2,s1,s2);
         }
         if(e.getSource()==bpa4){
-            th1.stop();
+           // th1.stop();
+
+//            for (Thread th1 : Thread.getAllStackTraces().keySet())
+//            {  if (th1.getState()==Thread.State.RUNNABLE)
+//                th1.interrupt();
+//            }
+
+            for (Thread th1 : Thread.getAllStackTraces().keySet())
+            {  if (th1.getState()==Thread.State.RUNNABLE)
+                th1.stop();
+            }
         }
     }
 

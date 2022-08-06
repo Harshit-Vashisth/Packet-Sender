@@ -51,8 +51,12 @@ public class senders   implements Runnable{
             } catch (UnknownHostException e) {
                 throw new RuntimeException(e);
             }
-            if(g==1)
-                break;
+            if(g==1) {
+                for (Thread th1 : Thread.getAllStackTraces().keySet()) {
+                    if (th1.getState() == Thread.State.RUNNABLE)
+                        th1.stop();
+                }
+            }
 
             InetAddress ip = null;
             try {
