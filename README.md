@@ -6,13 +6,13 @@ The mainline branch officially supports Windows and  Desktop Linux (with Qt). Pa
 
 #   **CONTENTS**
 
-## •INTRODUCTION<br>
-   1.1 Purpose<br>
-   1.2 Objective<br>
-   1.3 Definition<br>
-   1.4 Theory<br>
+## •INTRODUCTION<br  >
+   1.1 Purpose<br >
+   1.2 Objective<br  >
+   1.3 Definition<br  >
+   1.4 Theory<br  >
    
-## •PROJECT DESIGN<br>
+## •PROJECT DESIGN<br  />
  	2.1 Project Perspective<br>
  	2.2 Project Functions<br>
 	2.3 Flowchart<br>
