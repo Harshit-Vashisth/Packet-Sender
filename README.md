@@ -6,7 +6,8 @@ The mainline branch officially supports Windows and  Desktop Linux (with Qt). Pa
 
 #   **CONTENTS**
 
-## •INTRODUCTION<br >
+## •INTRODUCTION<br>
+
    1.1 Purpose<br>
    1.2 Objective<br>
    1.3 Definition<br>
