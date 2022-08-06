@@ -118,11 +118,11 @@ The Intense Traffic Generator is used to send the Data or the Message with an In
 
 <br><br>
 ## New Message with ITG:<br>
-![image](https://user-images.githubusercontent.com/109802813/183260801-13820b18-0dbc-4640-a1f6-5b701fedb49e.png)
+![image](https://user-images.githubusercontent.com/109802813/183260801-13820b18-0dbc-4640-a1f6-5b701fedb49e.png)<br>
 
  The new message is like a Chat Bot which will send a some Particular Patterns along with the Intense Traffic Generator the other end that is the receiver end recognise some particular and then reply them .<br>
 <br><br>
 ## Message receive from Chat Bot:<br>
- ![image](https://user-images.githubusercontent.com/109802813/183260796-79eb448c-2362-4018-8763-7f70235f0e06.png)
+ ![image](https://user-images.githubusercontent.com/109802813/183260796-79eb448c-2362-4018-8763-7f70235f0e06.png)<br>
 In this Panel the message receive when some particular pattern which are sent by the New Message frame are recognised by the receiver and replied back will be visible to the users. <br>
 The Packet Sender is able to make P2P that’s Peer to Peer Communication which means both the user are able to send and receive at the same time .<br>
