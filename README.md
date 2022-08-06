@@ -13,10 +13,12 @@ The mainline branch officially supports Windows and  Desktop Linux (with Qt). Pa
    1.3 Definition<br>
    1.4 Theory<br>
    
-## •PROJECT DESIGN<br>
- 	2.1 Project Perspective<br>
- 	2.2 Project Functions<br>
-	2.3 Flowchart<br>
+## •	PROJECT DESIGN<br>
+
+  2.1 Project Perspective<br>
+  2.2 Project Functions<br>
+  2.3 Flowchart<br>
+
 
 ## •IMPLEMENTATION<br>
   3.1    Main GUI<br>
