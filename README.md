@@ -116,7 +116,7 @@ In this Panel the Data will the other person will send will be displayed in this
 In this Pannel the Packet Count (Received) , The UDP port for your application, as well as the TCP and SSL port and the Internet Protocol version.<br>
 <br>
 ## Intense Traffic Generator(ITG):<br>
- 
+ ![ITG](https://user-images.githubusercontent.com/109802813/183278676-ffbc23f2-84e2-431e-b341-ab49371b325a.jpg)<br>
 The Intense Traffic Generator is used to send the Data or the Message with an Intense Speed in the Intense Traffic Generator after sending the data we can see the speed at which the data is being transferred , the number of Packets which have being transferred the Data sent will be sent with macros so that we are able to identify the order of the data and there is an time count in second which will show the time elapsed .<br>
 
 <br><br>
