@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+E:\git\Packet-Sender\.metadata\.plugins\org.eclipse.jdt.core
